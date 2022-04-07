@@ -1,0 +1,1 @@
+This project aims to develop my skills in Web programming. I will build a very(very) basic recipes website.
